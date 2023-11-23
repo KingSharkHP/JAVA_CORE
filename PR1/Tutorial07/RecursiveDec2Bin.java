@@ -1,5 +1,3 @@
-package PR1.Tutorial01.Tutorial02.Tutorial07;
-
 public class RecursiveDec2Bin {
     public static String toBinary(int n){
         if(n == 0) {

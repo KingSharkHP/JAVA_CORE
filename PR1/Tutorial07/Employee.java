@@ -1,4 +1,3 @@
-package PR1.Tutorial01.Tutorial02.Tutorial07;
 public class Employee {
 
    private  String nameEmployee;

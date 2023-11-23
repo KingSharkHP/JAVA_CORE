@@ -1,5 +1,3 @@
-package PR1.Tutorial01.Tutorial02.Tutorial08;
-
 public class CountLastDigits {
     public static int[] countLastDigits(int[] arr) {
         int[] counts = new int[10]; // An array to store counts for digits 0 to 9

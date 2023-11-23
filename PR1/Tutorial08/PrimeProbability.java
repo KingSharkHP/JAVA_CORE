@@ -1,4 +1,3 @@
-package PR1.Tutorial01.Tutorial02.Tutorial08;
 import java.util.Random;
 
 public class PrimeProbability {

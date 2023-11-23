@@ -1,5 +1,3 @@
-package PR1.Tutorial01.Tutorial02.Tutorial07;
-
 import java.util.Scanner;
 
 class RecursiveStringReverse {
