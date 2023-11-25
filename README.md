@@ -1,2 +1,3 @@
 # JAVA_CORE
-Java
+Practice java for beginners
+
